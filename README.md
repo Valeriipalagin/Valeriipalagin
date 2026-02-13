@@ -30,18 +30,18 @@
 
 ---
 
-### 🔥 Мои проекты (закрепи их в pinned!)
+### 🔥 Мои проекты 
 
-<!-- **[Todo REST API](https://github.com/Valeriipalagin/todo-api)**  
-  Полноценный TODO-сервис на Spring Boot + JWT + PostgreSQL
+- **[Calculator](https://github.com/Valeriipalagin/Calculator_with_exceptions)**  
+  Калькулятор с использованием исключением
 
-- **[Online Shop Backend](https://github.com/Valeriipalagin/online-shop)**  
-  CRUD товаров, категорий, корзина, заказы
+- **[Students Manager](https://github.com/Valeriipalagin/StudentsManager)**  
+  dddd
 
-- **[WB Price Parser](https://github.com/Valeriipalagin/wb-parser)**  
-  Парсер цен Wildberries (Jsoup + Spring Scheduler)
+- **[Library](https://github.com/Valeriipalagin/Library)**  
+  library
 
-- **[Telegram Weather Bot](https://github.com/Valeriipalagin/weather-bot)**  
+<!-- **[Telegram Weather Bot](https://github.com/Valeriipalagin/weather-bot)**  
   Погода по городу через OpenWeather API
 
 (Замени ссылки на реальные репозитории, если какой-то из них не твой)-->
