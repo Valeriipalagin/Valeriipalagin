@@ -54,7 +54,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Valeriipalagin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Valeriipalagin&theme=radical&hide_border=true" alt="Streak" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Valeriipalagin&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
