@@ -77,7 +77,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Valeriipalagin.Valeriipalagin&right_color=00FF9D&left_text=Просмотры" alt="Visitors" />
-  <br/><br/>
-  <i>Спасибо, что заглянул! ⭐ Если понравился проект — ставь звёздочку ✌️</i>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Valeriipalagin.Valeriipalagin" alt="Visitors" />
+<br/><br/>
+<i>Спасибо, что заглянул! ⭐ Если понравилось — ставь звёздочку моим репозиториям ✌️</i>
 </div>
