@@ -5,7 +5,7 @@
   <!-- Главные бейджи -->
   <img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-Ready-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Готов-к+фрилансу-00C853?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelance" />
+  <img src="https://img.shields.io/badge/Готов-к фрилансу-00C853?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelance" />
 
   <br/><br/>
 
