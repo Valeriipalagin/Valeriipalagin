@@ -39,10 +39,10 @@
 
 ### 🔥 Мои проекты 
 
-###- **[Todo REST API](https://github.com/твойusername/todo-api)** — Полноценный TODO-сервис на Spring Boot + JWT + PostgreSQL  
-###- **[Online Shop Backend](https://github.com/твойusername/online-shop)** — CRUD, категории, корзина, заказы  
-###- **[WB Price Parser](https://github.com/твойusername/wb-parser)** — Парсер цен Wildberries (Jsoup + Spring Scheduler)  
-###- **[Telegram Weather Bot](https://github.com/твойusername/weather-bot)** — Погода по городу через OpenWeather API  
+- **[Todo REST API](https://github.com/твойusername/todo-api)** — Полноценный TODO-сервис на Spring Boot + JWT + PostgreSQL  
+- **[Online Shop Backend](https://github.com/твойusername/online-shop)** — CRUD, категории, корзина, заказы  
+- **[WB Price Parser](https://github.com/твойusername/wb-parser)** — Парсер цен Wildberries (Jsoup + Spring Scheduler)  
+- **[Telegram Weather Bot](https://github.com/твойusername/weather-bot)** — Погода по городу через OpenWeather API  
 
 <br/>
 
