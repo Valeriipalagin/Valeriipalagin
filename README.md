@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://techicons.dev/icons/java/java-original.svg" width="180" alt="Java" style="filter: drop-shadow(0 0 20px #f89820);">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="180" alt="Java" style="filter: drop-shadow(0 0 20px #f89820);">
   
   <h1>Валерий Палагин</h1>
   <h3>Java Backend Developer (Junior+)</h3>
@@ -19,73 +19,73 @@
 
 ---
 
-### Кратко обо мне
+### Обо мне
 
-Начинающий, но мотивированный **Java-разработчик** с фокусом на backend.  
-Готов к реальным задачам: от фиксов и фич до рефакторинга и деплоя в прод.
+Привет! Я Валерий — мотивированный **Java-разработчик** с фокусом на backend.  
+Готов к реальным задачам: писать фичи, фиксить баги, рефакторить код, деплоить и учиться на продакшене.
 
-- **Опыт:** 1.5+ года активного кодинга (самообучение + pet-проекты + мелкие коммерческие задачи)  
-- **Статус:** Ищу первую полноценную работу Junior+/Middle или стажировку с менторством и реальным кодом  
+- **Опыт:** ~1.5–2 года активной практики (самообучение + pet-проекты + мелкие коммерческие задачи)  
+- **Цель:** Первая полноценная работа Junior+/Middle или стажировка с реальным кодом и менторством  
 - **Готов к:**  
-  - Стажировкам (даже неоплачиваемым 1–3 месяца, если есть ревью и рост)  
+  - Стажировкам (даже без оплаты на старте, если есть ревью и рост)  
   - Небольшим платным задачам (от 15–30 тыс. ₽ за таск)  
   - Полноценным позициям удалённо / гибрид  
 
-Мне важнее **продакшен-доступ**, **код-ревью** и **рост**, чем зарплата на старте.
+Мне важнее **продакшен-доступ**, **качественный код-ревью** и **быстрый рост**, чем зарплата на входе.
 
 ---
 
-### Стек и навыки (реалистично на февраль 2026)
+### Стек и навыки
 
 | Технология              | Уровень              | Что умею делать                                                                 |
 |-------------------------|----------------------|---------------------------------------------------------------------------------|
-| Java                    | Уверенный Junior+    | Java 17/21, Stream API, Records, Sealed Classes, Virtual Threads                |
-| Spring Boot             | Уверенный Junior     | REST API, Spring Data JPA, Spring Security (JWT, OAuth2), Exception Handling   |
-| Базы данных             | Уверенный Junior     | PostgreSQL / MySQL, JPA/Hibernate, Flyway, сложные запросы, индексы            |
-| Тестирование            | Уверенный Junior     | JUnit 5, Mockito, Testcontainers, интеграционные тесты                         |
-| Инструменты             | Уверенный            | Git, GitHub Actions, Docker basics, Maven/Gradle, Postman, Swagger/OpenAPI     |
-| Дополнительно           | Базовый–Средний      | Redis (кэш), RabbitMQ basics, REST + WebSockets (пробовал), Linux basics       |
+| Java                    | Уверенный Junior+    | Java 17/21, Stream API, Records, Virtual Threads, Pattern Matching              |
+| Spring Boot             | Уверенный Junior     | REST API, Spring Data JPA, Spring Security (JWT, OAuth2), Validation            |
+| Базы данных             | Уверенный Junior     | PostgreSQL / MySQL, JPA/Hibernate, Flyway/Liquibase, сложные запросы            |
+| Тестирование            | Уверенный Junior     | JUnit 5, Mockito, Testcontainers, интеграционные тесты                          |
+| Инструменты             | Уверенный            | Git, GitHub Actions, Docker basics, Maven/Gradle, Postman, Swagger/OpenAPI      |
+| Дополнительно           | Базовый–Средний      | Redis (кэширование), RabbitMQ basics, REST + WebSockets (пробовал)              |
 
 ---
 
-### Ключевые проекты (все с открытым кодом)
+### Ключевые проекты (открытый код)
 
-(Замени на свои реальные репозитории и описания — это самая важная часть!)
+(Обязательно замени на свои реальные репозитории — рекрутеры смотрят сюда в первую очередь!)
 
 - **[Telegram-бот "Название"](https://github.com/Valeriipalagin/telegram-bot-example)**  
   Полноценный бот с регистрацией, БД, уведомлениями, админ-панелью. Docker-ready.
 
 - **[REST API сервиса "Название"](https://github.com/Valeriipalagin/rest-api-project)**  
-  Многослойная архитектура (Controller → Service → Repository), security, тесты, docker-compose.
+  Многослойная архитектура, security, тесты, docker-compose.
 
 - **[Парсер + уведомления](https://github.com/Valeriipalagin/parser-notifier)**  
-  Парсит сайт, сохраняет изменения в БД, отправляет алерты в Telegram.
+  Парсит сайт по расписанию, сохраняет изменения, отправляет алерты в Telegram.
 
 - **[Микросервисы демо](https://github.com/Valeriipalagin/microservices-demo)**  
   Несколько модулей + Spring Cloud basics (Eureka, Gateway, Config).
 
-Все проекты: тесты, CI (GitHub Actions), Docker, документация Swagger.
+Все проекты: тесты, CI/CD (GitHub Actions), Docker, документация Swagger.
 
 ---
 
 ### Что ищу прямо сейчас
 
-- **Junior+ / Middle** позиции (удалённо, гибрид)  
+- **Junior+ / Middle** вакансии (удалённо, гибрид)  
 - **Стажировки** с реальным кодом и менторством  
 - **Платные задачи** (от 15–30 тыс. ₽):  
   - Telegram-боты / интеграции  
-  - REST API, CRUD + auth  
+  - REST API, CRUD + аутентификация  
   - Парсеры / веб-скрапинг  
   - Фиксы багов / рефакторинг legacy  
-  - Доработка существующего проекта  
+  - Доработка проектов  
 
-Готов к code-review, pair-programming, ночным фиксам — мне нужно расти через реальные задачи.
+Готов к pair-programming, code-review, ночным фиксам — мне нужно быстро расти.
 
 ---
 
 <div align="center" style="margin: 80px 0;">
 
-**Давай работать вместе**  
+**Готов к работе. Готов к вызовам.**  
 Напиши мне в любое время — отвечу быстро.
 
 </div>
