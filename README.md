@@ -37,20 +37,18 @@
 
 ---
 
-### 🔥 Мои проекты (закрепи их в pinned!)
+### 🔥 Мои проекты 
 
-- **[Todo REST API](https://github.com/твойusername/todo-api)** — Полноценный TODO-сервис на Spring Boot + JWT + PostgreSQL  
-- **[Online Shop Backend](https://github.com/твойusername/online-shop)** — CRUD, категории, корзина, заказы  
-- **[WB Price Parser](https://github.com/твойusername/wb-parser)** — Парсер цен Wildberries (Jsoup + Spring Scheduler)  
-- **[Telegram Weather Bot](https://github.com/твойusername/weather-bot)** — Погода по городу через OpenWeather API  
-
-(Замени ссылки и названия на свои реальные репозитории)
+###- **[Todo REST API](https://github.com/твойusername/todo-api)** — Полноценный TODO-сервис на Spring Boot + JWT + PostgreSQL  
+###- **[Online Shop Backend](https://github.com/твойusername/online-shop)** — CRUD, категории, корзина, заказы  
+###- **[WB Price Parser](https://github.com/твойusername/wb-parser)** — Парсер цен Wildberries (Jsoup + Spring Scheduler)  
+###- **[Telegram Weather Bot](https://github.com/твойusername/weather-bot)** — Погода по городу через OpenWeather API  
 
 <br/>
 
 ---
 
-### 📊 Статистика (обновляется автоматически)
+### 📊 Статистика 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Valeriipalagin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
