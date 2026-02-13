@@ -33,7 +33,7 @@
 ### 🔥 Мои проекты 
 
 - **[Calculator](https://github.com/Valeriipalagin/Calculator_with_exceptions)**  
-  Калькулятор с использованием исключением
+  Калькулятор с использованием исключений
 
 - **[Students Manager](https://github.com/Valeriipalagin/StudentsManager)**  
   dddd
