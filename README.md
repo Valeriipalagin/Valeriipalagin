@@ -32,7 +32,7 @@
 
 ### 🔥 Мои проекты (закрепи их в pinned!)
 
-- **[Todo REST API](https://github.com/Valeriipalagin/todo-api)**  
+<!-- **[Todo REST API](https://github.com/Valeriipalagin/todo-api)**  
   Полноценный TODO-сервис на Spring Boot + JWT + PostgreSQL
 
 - **[Online Shop Backend](https://github.com/Valeriipalagin/online-shop)**  
@@ -44,7 +44,7 @@
 - **[Telegram Weather Bot](https://github.com/Valeriipalagin/weather-bot)**  
   Погода по городу через OpenWeather API
 
-(Замени ссылки на реальные репозитории, если какой-то из них не твой)
+(Замени ссылки на реальные репозитории, если какой-то из них не твой)-->
 
 <br/>
 
