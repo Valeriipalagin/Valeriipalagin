@@ -50,7 +50,7 @@
 
 ---
 
-### 📊 Статистика (обновляется автоматически)
+### 📊 Статистика
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Valeriipalagin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
