@@ -53,12 +53,12 @@
 ### 📊 Статистика (обновляется автоматически)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valeriipalagin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valeriipalagin&theme=radical&hide_border=true" alt="Streak" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Valeriipalagin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Valeriipalagin&theme=radical&hide_border=true" alt="Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valeriipalagin&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Valeriipalagin&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
 </div>
 
 <br/>
