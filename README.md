@@ -1,105 +1,83 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="180" alt="Java" style="filter: drop-shadow(0 0 20px #f89820);">
-  
-  <h1>Валерий Палагин</h1>
-  <h3>Java Backend Developer (Junior+)</h3>
-  
-  <p>
-    <a href="https://t.me/b_diib_d">
-      <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-    <a href="mailto:walerij.palagin@mail.ru">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://github.com/Valeriipalagin">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Привет!+Я+[Твоё+Имя]+👋;Junior+Java+Developer" alt="Typing SVG" />
+
+  <br/>
+
+  <!-- Главный бейдж -->
+  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=java&logoColor=white&color=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Ready-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Ready%20for-Freelance-00C853?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelance" />
+
+  <br/><br/>
+
+  <!-- Коротко о себе -->
+  **Junior Java-разработчик** | Ищу первые коммерческие задачи 🚀  
+  Пишу чистый код • Учусь каждый день • Готов к тестовым заданиям
+
 </div>
 
----
-
-### Обо мне
-
-Привет! Я Валерий — мотивированный **Java-разработчик** с фокусом на backend.  
-Готов к реальным задачам: писать фичи, фиксить баги, рефакторить код, деплоить и учиться на продакшене.
-
-- **Опыт:** ~1.5–2 года активной практики (самообучение + pet-проекты + мелкие коммерческие задачи)  
-- **Цель:** Первая полноценная работа Junior+/Middle или стажировка с реальным кодом и менторством  
-- **Готов к:**  
-  - Стажировкам (даже без оплаты на старте, если есть ревью и рост)  
-  - Небольшим платным задачам (от 15–30 тыс. ₽ за таск)  
-  - Полноценным позициям удалённо / гибрид  
-
-Мне важнее **продакшен-доступ**, **качественный код-ревью** и **быстрый рост**, чем зарплата на входе.
+<br/>
 
 ---
 
-### Стек и навыки
+### 🛠️ Технологии, с которыми работаю
 
-| Технология              | Уровень              | Что умею делать                                                                 |
-|-------------------------|----------------------|---------------------------------------------------------------------------------|
-| Java                    | Уверенный Junior+    | Java 17/21, Stream API, Records, Virtual Threads, Pattern Matching              |
-| Spring Boot             | Уверенный Junior     | REST API, Spring Data JPA, Spring Security (JWT, OAuth2), Validation            |
-| Базы данных             | Уверенный Junior     | PostgreSQL / MySQL, JPA/Hibernate, Flyway/Liquibase, сложные запросы            |
-| Тестирование            | Уверенный Junior     | JUnit 5, Mockito, Testcontainers, интеграционные тесты                          |
-| Инструменты             | Уверенный            | Git, GitHub Actions, Docker basics, Maven/Gradle, Postman, Swagger/OpenAPI      |
-| Дополнительно           | Базовый–Средний      | Redis (кэширование), RabbitMQ basics, REST + WebSockets (пробовал)              |
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
 
----
-
-### Ключевые проекты (открытый код)
-
-(Обязательно замени на свои реальные репозитории — рекрутеры смотрят сюда в первую очередь!)
-
-- **[Telegram-бот "Название"](https://github.com/Valeriipalagin/telegram-bot-example)**  
-  Полноценный бот с регистрацией, БД, уведомлениями, админ-панелью. Docker-ready.
-
-- **[REST API сервиса "Название"](https://github.com/Valeriipalagin/rest-api-project)**  
-  Многослойная архитектура, security, тесты, docker-compose.
-
-- **[Парсер + уведомления](https://github.com/Valeriipalagin/parser-notifier)**  
-  Парсит сайт по расписанию, сохраняет изменения, отправляет алерты в Telegram.
-
-- **[Микросервисы демо](https://github.com/Valeriipalagin/microservices-demo)**  
-  Несколько модулей + Spring Cloud basics (Eureka, Gateway, Config).
-
-Все проекты: тесты, CI/CD (GitHub Actions), Docker, документация Swagger.
+<br/>
 
 ---
 
-### Что ищу прямо сейчас
+### 🔥 Мои проекты (закрепи их в pinned!)
 
-- **Junior+ / Middle** вакансии (удалённо, гибрид)  
-- **Стажировки** с реальным кодом и менторством  
-- **Платные задачи** (от 15–30 тыс. ₽):  
-  - Telegram-боты / интеграции  
-  - REST API, CRUD + аутентификация  
-  - Парсеры / веб-скрапинг  
-  - Фиксы багов / рефакторинг legacy  
-  - Доработка проектов  
+- **[Todo REST API](https://github.com/Valeriipalagin/todo-api)** — Полноценный TODO-сервис на Spring Boot + JWT + PostgreSQL  
+- **[Online Shop Backend](https://github.com/Valeriipalagin/online-shop)** — CRUD, категории, корзина, заказы  
+- **[WB Price Parser](https://github.com/Valeriipalagin/wb-parser)** — Парсер цен Wildberries (Jsoup + Spring Scheduler)  
+- **[Telegram Weather Bot](https://github.com/твойusername/weather-bot)** — Погода по городу через OpenWeather API  
 
-Готов к pair-programming, code-review, ночным фиксам — мне нужно быстро расти.
+(Замени ссылки и названия на свои реальные репозитории)
+
+<br/>
 
 ---
 
-<div align="center" style="margin: 80px 0;">
+### 📊 Статистика (обновляется автоматически)
 
-**Готов к работе. Готов к вызовам.**  
-Напиши мне в любое время — отвечу быстро.
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Valeriipalagin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valeriipalagin&theme=radical&hide_border=true" alt="Streak" width="48%" />
 </div>
 
 <div align="center">
-  <a href="https://t.me/b_diib_d">
-    <img src="https://img.shields.io/badge/Telegram-Написать_мне-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="50">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:walerij.palagin@mail.ru">
-    <img src="https://img.shields.io/badge/Email-Написать-walerij.palagin@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="50">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valeriipalagin&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
 </div>
 
-<div align="center" style="margin-top: 100px; color: #777; font-size: 0.9em;">
-  Built with ☕ & determination • February 2026
+<br/>
+
+---
+
+### 📬 Связаться со мной
+
+<div align="center">
+
+  [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/b_diib_d)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walerij.palagin@mail.ru)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Valeriipalagin.Valeriipalagin" alt="Visitors" />
+  <br/><br/>
+  <i>Спасибо, что заглянул! ⭐ Если понравилось — ставь звёздочку моим репозиториям ✌️</i>
 </div>
