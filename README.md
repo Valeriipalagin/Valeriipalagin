@@ -1,105 +1,110 @@
-<div align="center" style="background:#000000; padding:60px 20px; font-family:'Courier New', Courier, monospace; color:#00ff41; border:2px solid #ff004d;">
+<div align="center" style="background:#000000; padding:60px 20px; font-family:'Courier New', monospace; color:#00ff41; border:3px solid #ff004d; max-width:1000px; margin:0 auto;">
 
-  <!-- Заголовок + главная гифка -->
-  <div style="margin-bottom:40px;">
-    <img src="https://media.tenor.com/5bZfZfZfZf8AAAAC/f-society-mask-glitch-logo-mr-robot.gif" width="380" alt="fsociety glitch">
+  <div style="margin-bottom:30px;">
+    <img src="https://media.tenor.com/images/5bZfZfZfZf8AAAAC/f-society-mask-glitch-logo-mr-robot.gif" width="360" alt="fsociety glitch">
   </div>
 
-  <h1 style="color:#ff004d; font-size:4.2em; margin:0; letter-spacing:8px; text-transform:uppercase;">
+  <h1 style="color:#ff004d; font-size:4.5em; margin:0; letter-spacing:10px; text-transform:uppercase;">
     GLITCH.JAVA
   </h1>
 
-  <h3 style="color:#00ff41; margin:20px 0 50px; letter-spacing:4px; font-size:1.6em;">
-    YOUNG JAVA WEAPON — ARMED & FUCKING DANGEROUS
-  </h3>
+  <h2 style="color:#00ff41; margin:25px 0 50px; letter-spacing:5px; font-size:1.8em;">
+    YOUNG JAVA WEAPON — LOADED & DANGEROUS
+  </h2>
 
-  <!-- Маленькие гифки -->
-  <div style="margin:40px 0; display:flex; justify-content:center; gap:30px; flex-wrap:wrap;">
-    <img src="https://media.tenor.com/10668875/AAAAC/f-society-mask-glitch.gif" width="160" alt="fsociety small">
-    <img src="https://media.tenor.com/27356687AAAAC/mrrobot-fsociety.gif" width="160" alt="mr robot fsociety">
-    <img src="https://media.tenor.com/26293099/AAAAC/fsociety.gif" width="160" alt="fsociety logo">
+  <div style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap; margin:40px 0;">
+    <img src="https://media.tenor.com/images/10668875/AAAAC/f-society-mask-glitch.gif" width="180" alt="small glitch">
+    <img src="https://media.tenor.com/images/27356687AAAAC/mrrobot-fsociety.gif" width="180" alt="mr robot">
+    <img src="https://media.tenor.com/images/26293099/AAAAC/fsociety.gif" width="180" alt="fsociety">
   </div>
 
-  <p style="font-size:1.5em; max-width:900px; margin:40px auto; line-height:1.6;">
-    Я не ищу ментора.<br>
-    Я ищу <strong style="color:#ff004d;">продакшен</strong>, где можно нассрать, починить и задеплоить поверх обломков.
+  <p style="font-size:1.6em; max-width:900px; line-height:1.6; margin:40px auto;">
+    Я начинающий Java-разработчик.<br>
+    Ищу реальные проекты для опыта / вклада / минимальной оплаты.<br>
+    Готов фиксить баги, писать фичи, переписывать говнокод — всё, чтобы попасть в прод.
   </p>
 
 </div>
 
-<div style="background:#0a0a0a; padding:50px 30px; margin:60px 0; border-left:8px solid #00ff41; color:#cccccc; font-family:'Courier New', monospace; max-width:900px; margin-left:auto; margin-right:auto;">
+<div style="background:#0a0a0a; padding:60px 40px; margin:70px auto; max-width:900px; border-left:10px solid #00ff41; border-right:10px solid #00ff41; color:#cccccc;">
 
-  <h2 style="color:#ff004d; text-align:center; margin-bottom:30px; letter-spacing:3px;">
+  <h3 style="color:#ff004d; text-align:center; margin-bottom:30px; letter-spacing:4px; font-size:1.8em;">
     root@void:~# whoami
-  </h2>
+  </h3>
 
-  <pre style="font-size:1.2em; line-height:1.7; color:#00ff41;">
-alias       glitch.java
+  <pre style="font-size:1.3em; line-height:1.8; color:#00ff41; margin:0 auto; max-width:800px; text-align:left;">
+alias       Valeriipalagin
 status      junior → weaponized
 objective   deploy or die trying
 payment     0₽ < реальный доступ к бою
-fail state  tutorial hell → самоуничтожение
+fail state  tutorial hell → delete self
   </pre>
 
-  <h2 style="color:#ff004d; text-align:center; margin:60px 0 30px; letter-spacing:3px;">
-    СТЕК — что я готов принести в жертву
-  </h2>
+  <h3 style="color:#ff004d; text-align:center; margin:70px 0 30px; letter-spacing:4px; font-size:1.8em;">
+    СТЕК — ЖЕРТВА ПРИНЯТА
+  </h3>
 
-  <pre style="font-size:1.2em; line-height:1.7; color:#cccccc;">
+  <pre style="font-size:1.3em; line-height:1.8; color:#cccccc; margin:0 auto; max-width:800px; text-align:left;">
 Java 17–21              weaponized
 Spring Boot 3           REST + Security + JPA + rage
-PostgreSQL              запросы быстрее твоих оправданий
+PostgreSQL              быстрее твоих оправданий
 Docker + Compose        контейнеры горят красиво
-Git --force             без слёз, только rebase
+Git --force             без слёз
 JUnit 5 + Mockito       тесты или GTFO
   </pre>
 
 </div>
 
-<div align="center" style="margin:80px 0; padding:40px; background:#000000; border:2px dashed #ff004d;">
+<div align="center" style="margin:90px 0; padding:50px 20px; background:#000000; border:3px dashed #ff004d;">
 
-  <img src="https://i.imgur.com/3t6Z2AU.gif" width="800" alt="I CAME HERE TO FUCKING DEPLOY">
+  <img src="https://i.imgur.com/3t6Z2AU.gif" width="90%" style="max-width:900px;" alt="I CAME HERE TO FUCKING DEPLOY">
 
-  <h1 style="color:#ff004d; font-size:3.5em; margin:40px 0 20px; letter-spacing:6px; line-height:1.2;">
+  <h1 style="color:#ff004d; font-size:3.8em; margin:50px 0 20px; letter-spacing:8px; line-height:1.3;">
     I DIDN'T COME HERE TO PLAY<br>
     I CAME HERE TO FUCKING DEPLOY
   </h1>
 
-  <h2 style="color:#00ff41; font-style:italic; font-size:1.8em; text-shadow:0 0 15px #00ff41;">
+  <h2 style="color:#00ff41; font-style:italic; font-size:2em; margin:30px 0;">
     -- если ты всё ещё скроллишь — значит ты уже мой --
   </h2>
 
 </div>
 
-<div align="center" style="margin:100px 0 60px; padding:50px 20px; background:#000000; border:3px solid #00ff41; max-width:800px; margin-left:auto; margin-right:auto;">
+<div align="center" style="margin:100px auto; padding:60px 30px; background:#000000; border:4px solid #00ff41; max-width:900px;">
 
-  <h2 style="color:#ff004d; margin-bottom:40px; letter-spacing:4px; font-size:2em;">
-    КОНТАКТЫ (пиши по делу)
+  <h2 style="color:#ff004d; margin-bottom:50px; letter-spacing:5px; font-size:2.2em;">
+    КОНТАКТЫ — ПИШИ ПО ДЕЛУ
   </h2>
 
-  <p style="font-size:1.4em; margin:20px 0; color:#ffffff;">
-    <strong>Telegram</strong> → 
-    <a href="https://t.me/b_diib_d" style="color:#00ff41; text-decoration:none; border-bottom:2px dashed #00ff41;">
-      @b_diib_d
-    </a>
-  </p>
+  <div style="font-size:1.5em; line-height:2; color:#ffffff; max-width:700px; margin:0 auto; text-align:left;">
+    <p>
+      <strong>Telegram</strong> → 
+      <a href="https://t.me/b_diib_d" style="color:#00ff41; text-decoration:none; border-bottom:3px dashed #00ff41;">
+        @b_diib_d
+      </a>
+    </p>
 
-  <p style="font-size:1.4em; margin:20px 0; color:#ffffff;">
-    <strong>Discord</strong> → 
-    <span style="color:#00ff41;">glitch#0666</span>
-  </p>
+    <p>
+      <strong>GitHub</strong> → 
+      <a href="https://github.com/Valeriipalagin" style="color:#00ff41; text-decoration:none; border-bottom:3px dashed #00ff41;">
+        Valeriipalagin
+      </a>
+    </p>
 
-  <p style="font-size:1.4em; margin:20px 0 50px; color:#ffffff;">
-    <strong>Email</strong> → 
-    <a href="mailto:walerij.palagin@mail.ru" style="color:#ff6666; text-decoration:none; border-bottom:2px dashed #ff6666;">
-      walerij.palagin@mail.ru
-    </a>
-  </p>
+    <p>
+      <strong>Email</strong> → 
+      <a href="mailto:walerij.palagin@mail.ru" style="color:#ff6666; text-decoration:none; border-bottom:3px dashed #ff6666;">
+        walerij.palagin@mail.ru
+      </a>
+    </p>
+  </div>
 
-  <img src="https://media.tenor.com/R8lHaEZYpCUAAAAC/green-hacker-screen.gif" width="100%" style="max-width:700px; border:2px solid #00ff41; margin-top:30px;" alt="hacker terminal">
+  <div style="margin-top:60px;">
+    <img src="https://media.tenor.com/images/R8lHaEZYpCUAAAAC/green-hacker-screen.gif" width="100%" style="max-width:800px; border:2px solid #00ff41;" alt="hacker terminal">
+  </div>
 
-  <p style="margin-top:40px; font-size:1em; color:#555555; letter-spacing:1px;">
-    пиши сразу задачу • без «привет как дела» • control is an illusion
+  <p style="margin-top:40px; font-size:1.1em; color:#555555; letter-spacing:2px;">
+    пиши сразу задачу / ссылку на репозиторий / описание таска • без «привет как дела» • control is an illusion • code is violence
   </p>
 
 </div>
