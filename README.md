@@ -1,62 +1,56 @@
-<div align="center">
+<div align="center" style="background:#0a0a0a; padding:40px 20px; border:1px solid #00ff41; border-radius:8px; font-family: 'Courier New', monospace; color:#00ff41;">
 
-  <!-- Анимация в стиле набора кода -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1500&color=00FF9D&center=true&vCenter=true&width=650&lines=public+class+Developer+%7B;+++String+name+%3D+%22Валерий%22;;+++String+role+%3D+%22Junior+Java+Developer%22;;+++String+focus+%3D+%22Spring+Boot+%26+Backend%22;;+++boolean+openToWork+%3D+true;;%7D" 
-    alt="Code typing animation"
-  />
+<h1 style="color:#ff004d; text-shadow: 0 0 10px #ff004d, 0 0 20px #ff004d;">
+  fsociety00.dat
+</h1>
 
-  <br/><br/>
+<img src="https://github.com/Valeriipalagin/Valeriipalagin/raw/main/assets/mr-robot-mask-glitch.gif" width="180" style="filter: drop-shadow(0 0 15px #00ff41);">
 
-  <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </p>
+<h2 style="color:#00ff41; letter-spacing: 2px;">
+  ELLIOT WAS RIGHT
+</h2>
+
+<p style="font-size:1.2em; color:#cccccc; max-width:720px;">
+Я — начинающий Java-разработчик.<br>
+Ищу первый реальный доступ к продакшену.<br>
+Готов писать код за ревью / стажировку / символические деньги / просто чтобы меня не игнорировали.
+</p>
 
 </div>
 
----
 
-### Обо мне
-
-Junior Java-разработчик.  
-Сфокусирован на создании надёжных REST API и backend-сервисов с использованием Spring Boot.  
-Ищу первые коммерческие проекты или задачи для получения реального опыта и отзывов.
-
-### Текущий стек
-
-- Java (Core, Collections, Streams, многопоточность на базовом уровне)  
-- Spring Boot (REST, JPA/Hibernate, Spring Security basics)  
-- PostgreSQL / MySQL  
-- Git, Maven / Gradle  
-- JUnit + базовое тестирование  
-- Docker (запуск приложений в контейнерах)
-
-### Проекты
-
-- **[todo-api](https://github.com/твойusername/todo-api)**  
-  REST-сервис для управления задачами с JWT-аутентификацией и PostgreSQL.
-
-- **[shop-backend](https://github.com/твойusername/shop-backend)**  
-  Backend интернет-магазина: товары, категории, корзина, заказы.
-
-- **[wb-parser](https://github.com/твойusername/wb-parser)**  
-  Парсер цен с Wildberries с использованием Jsoup и Spring Scheduler.
-
-- **[telegram-bot](https://github.com/твойusername/tg-bot)**  
-  Telegram-бот с интеграцией базы данных и обработкой команд.
-
-Все проекты содержат подробное README, инструкцию по запуску (в том числе через Docker) и хотя бы минимальный набор тестов.
-
-### Контакты
-
-<div align="center">
-  <p>
-    <strong>Telegram</strong> → <a href="https://t.me/твойник">@твойник</a><br>
-    <strong>Email</strong> → <a href="mailto:твой@email.com">твой@email.com</a><br>
-    <strong>LinkedIn</strong> → <a href="https://linkedin.com/in/твойпрофиль">linkedin.com/in/твойпрофиль</a>
-  </p>
-
-  <p>Открыт к тестовым заданиям, небольшим задачам и фриланс-проектам.<br>Готов оперативно обсудить детали и приступить к работе.</p>
+<!-- разделитель в стиле терминала -->
+<div align="center" style="background:#000; color:#00ff41; font-family:monospace; padding:20px; margin:30px 0; border-left:4px solid #ff004d;">
+<span style="color:#ff004d;">user@void:~$</span> whoami<br>
+<span style="color:#00ff41;">java-noob / eager / paranoid / caffeinated</span>
 </div>
+
+
+### Текущий стек (build 2025–2026)
+
+```text
+Java 17 ⋮ 21        → уверенно
+Spring Boot 3        → REST + JPA + Security basics
+PostgreSQL           → не боится JOIN-ов и индексов
+Docker               → умею запускать и писать Dockerfile
+GitHub Actions       → CI/CD для своих проектов
+Postman / OpenAPI    → документирую и тестирую API
+Что я ищу прямо сейчас
+
+багфиксы / небольшие фичи в open-source проектах на Java / Kotlin / Spring
+pet-проекты, которые можно довести до продакшена вместе
+стажировки (даже без оплаты первые 2–3 месяца — ок)
+мелкие заказы от 10–15к ₽ / $150–300 (боты, парсеры, CRUDы, Telegram-интеграции)
+
+Готов работать ночью. Готов переписывать код 7 раз.
+Готов молчать и просто делать.
+Контакты (не используй корпоративную почту)
+textTelegram    → @твой_ник_в_tg
+Discord     → void#1337
+Email       → fsociety.[твой_ник]@proton.me   (или любой анонимный)
+
+-- control is an illusion --
+
+but code is real
+
+```
