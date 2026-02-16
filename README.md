@@ -41,7 +41,7 @@
 - **[Library](https://github.com/Valeriipalagin/Library)**  
   library
 
- **[Telegram Weather Bot](https://github.com/Valeriipalagin/WeatherBot)**  
+- **[Telegram Weather Bot](https://github.com/Valeriipalagin/WeatherBot)**  
   Погода по городу через OpenWeather API
 
 
